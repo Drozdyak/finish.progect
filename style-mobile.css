@@ -1,0 +1,271 @@
+@media screen and (max-width: 1200px) {
+    #text:before {
+        Content:"Разрешение для экранов до  1200px  (ноутбуки)";
+    }
+.header{
+    width: 1180px;
+   
+}
+.menu{
+    display: none;
+}
+.humburger-menu{
+    font-size: 29px;
+}
+.container {
+    width: auto;
+    margin: 0px;
+    padding-left: 1051px;
+    height: 105px;
+    padding-top: 79px;
+}
+.img {
+    margin: auto;
+    margin-top: 155px;
+}
+img.img2-1 {
+    margin: auto;
+    margin-left: 74px;
+    margin-top: 69px;
+}
+.boxik {
+    margin-left: 29px;
+}
+.text3 {
+    padding-top: 276px;
+}
+.footer-text1 {
+    padding: 0px;
+    margin-top: 26px;
+    width: 228px;
+    margin-left: 409px;
+}
+.footer-text2 {
+    padding: 0px;
+    margin-top: 25px;
+    margin-right: 88px;
+}
+
+
+
+}
+
+@media screen and (max-width: 800px) {
+    #text:before {
+        Content:"Разрешение для экранов   до 800px(планшеты)";
+ 
+    }
+.header{
+    width: 780px;
+}
+.container{
+    padding-left: 650px;
+}
+.section-text1 {
+    width: 592px;
+    margin-left: 97px;
+}
+.portfolio {
+    font-size: 95px;
+}
+.img {
+    margin: auto;
+    width: 564px;
+    padding-top: 89px;
+}
+.text2 {
+    margin-top: 1737px;
+}
+.section-text2 {
+    width: 481px;
+    margin-left: 149px;
+}
+.img-2 {
+    width: 800px;
+    height: 749px;
+    margin-top: 24px;
+    margin-left: 109px;
+}
+img.img2-1 {
+    margin: 0px;
+}
+.text3 {
+    height: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.boxik {
+    width: 559px;
+    margin-left: 102px;
+    margin-top: 51px;
+}
+.section4 {
+    display: inline-block;
+    margin-top: 879px;
+    margin-left: 88px;
+}
+
+.footer {
+    width: 800px;
+}
+.year {
+    padding-left: 339px;
+}
+.footer-text1 {
+    display: none;
+}
+.footer-text2 {
+    display: none;
+}
+    
+}
+@media screen and (max-width: 320px) {
+    #text:before {
+        Content:"Разрешение для экранов   до 800px(смартфоны)";
+    }
+    header.header {
+        width: 320px;
+    }
+    .container {
+        padding-left: 237px;
+    }
+    .logo {
+        margin-top: 6px;
+        left: 32px;
+    }
+    .section-container {
+        width: 320px;
+    }
+    .section-text1 {
+        width: 199px;
+        margin-left: 52px;
+        margin-top: 104px;
+    }
+    .portfolio {
+        font-size: 55px;
+        text-align: center;
+    }
+    .text2 {
+        margin-top: 1829px;
+        font-size: 72px;
+    }
+    .section-text2 {
+        width: 311px;
+        margin-left: -4px;
+        font-size: 20px;
+    }
+    .img-2 {
+        margin: auto;
+        margin-top: 41px;
+        margin-left: 12px;
+        width: 284px;
+    }
+    img.img2-1 {
+        margin: 0px auto;
+        margin-left: 10px;
+        margin-bottom: 30px;
+        width: 121px;
+        height: 154px;
+        margin-right: 6px;
+    }
+    .text3 {
+        width: 320px;
+        height: 205px;
+        font-size: 56px;
+    }
+    .bo1 {
+        width: 278px;
+        height: 357px;
+    }
+    .bo1-text1 {
+        font-size: 33px;
+    }
+    .bo1-text2 {
+        font-size: 17px;
+    }
+    .bo1-get {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+    .bo2 {
+        width: 278px;
+        height: 357px;
+    }
+    .bo2-text1 {
+        font-size: 33px;
+    }
+    .bo2-text2 {
+        font-size: 17px;
+    }
+    .bo2-get {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+
+    .bo3 {
+        width: 278px;
+        height: 357px;
+    }
+    .bo3-text1 {
+        font-size: 33px;
+    }
+    .bo3-text2 {
+        font-size: 17px;
+    }
+    .bo3-get {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+    .bo4 {
+        width: 278px;
+        height: 357px;
+    }
+    .bo4-text1 {
+        font-size: 33px;
+    }
+    .bo4-text2 {
+        font-size: 17px;
+    }
+    .bo4-get {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+    .boxik {
+        width: 278px;
+        margin-left: 13px;
+    }
+    .section4 {
+        margin: 0px auto;
+        padding-top: 144px;
+        width: 320px;
+    }
+    .contacts-text {
+        font-size: 54px;
+        margin-left: -30px;
+    }
+    .contacts {
+        font-size: 28px;
+        text-align: center;
+        margin-left: -18px;
+    }
+    .footer {
+        width: 320px;
+    }
+    .year {
+        padding-left: 72px;
+    }
+    .footer-text1 {
+        display: none;
+    }
+    .footer-text2 {
+        display: none;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .humburger-menu{
+        display: none;
+    }
+}
